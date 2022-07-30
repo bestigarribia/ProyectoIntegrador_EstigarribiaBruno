@@ -1,0 +1,12 @@
+.row{
+    background: #066069;   ;
+}
+
+footer {
+    color: azure;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 1%;
+}

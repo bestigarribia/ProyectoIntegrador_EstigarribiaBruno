@@ -1,0 +1,17 @@
+.row{
+    padding: 40px;
+    background-color:#CDE2F2;
+}
+
+.contenedor{
+    width: auto;
+}
+
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+
+h3 {
+    margin-top: 5%;
+}
